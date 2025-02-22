@@ -1,0 +1,1 @@
+This example demonstrates the unexpected behavior of Perl hash iteration.  The keys are not printed in the order they were added to the hash.  The solution provides a way to iterate in a predictable order if needed.
